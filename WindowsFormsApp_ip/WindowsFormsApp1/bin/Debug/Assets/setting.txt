@@ -1,0 +1,1 @@
+{"ip":"100.100.10.145","proxy":"127.0.0.1:8080","file_path":"\"\"C:\\Program Files\\WinRAR\\Rar.exe\"\"","start_argument":"--connect client.ovpn","interval":100000,"proxy_enable":false,"network_name":"Ethernet","network_interval":"10","network_toggle_enabled":true,"file_closing_path":"C:\\Program Files\\WinRAR\\Rar.exe"}

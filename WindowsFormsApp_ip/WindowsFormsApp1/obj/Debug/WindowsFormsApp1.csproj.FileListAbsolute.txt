@@ -1,0 +1,9 @@
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\project\source\WindowsFormsApp_ip\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
